@@ -1,1 +1,1 @@
-[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/job/Kwala_Api_Automation/88/","buildOrder":88,"buildName":"Kwala_Api_Automation","buildUrl":"http://localhost:8080/job/Kwala_Api_Automation/88/","reportUrl":"http://localhost:8080/job/Kwala_Api_Automation/88/allure"}]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/job/Kwala_CICD/8/","buildOrder":8,"buildName":"Kwala_CICD","buildUrl":"http://localhost:8080/job/Kwala_CICD/8/","reportUrl":"http://localhost:8080/job/Kwala_CICD/8/allure"}]
